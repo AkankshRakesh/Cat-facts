@@ -1,6 +1,6 @@
 # 🐱 Cat Facts Generator
 
-A beautiful, interactive web application that fetches random cat facts using a clean neumorphic design. Built with Next.js, TypeScript, and Tailwind CSS.
+A beautiful, interactive web application that fetches random cat facts using a clean neumorphic design. Built with Next.js, TypeScript, and Tailwind CSS. Live at: https://cats-kohl-two.vercel.app/
 
 ## ✨ Features
 
@@ -12,8 +12,7 @@ A beautiful, interactive web application that fetches random cat facts using a c
 - **Accessibility**: Built with semantic HTML and proper ARIA attributes
 
 ## 🖇️ Demo
-Live at: 
-Click the link to discover amazing facts about our feline friends! The app features:
+Click the [link](https://cats-kohl-two.vercel.app/) to discover amazing facts about our feline friends! The app features:
 - Instant fact loading with visual feedback
 - Beautiful neumorphic button interactions
 - Elegant fact display with soft shadows
