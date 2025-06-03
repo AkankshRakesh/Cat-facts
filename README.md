@@ -11,9 +11,9 @@ A beautiful, interactive web application that fetches random cat facts using a c
 - **Error Handling**: Graceful error messages with retry functionality
 - **Accessibility**: Built with semantic HTML and proper ARIA attributes
 
-## 🚀 Demo
-
-Click the button to discover amazing facts about our feline friends! The app features:
+## 🖇️ Demo
+Live at: 
+Click the link to discover amazing facts about our feline friends! The app features:
 - Instant fact loading with visual feedback
 - Beautiful neumorphic button interactions
 - Elegant fact display with soft shadows
